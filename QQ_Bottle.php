@@ -5,7 +5,7 @@
 //====================================
 $uid = '87555190';
 $pw = '123456';
-$plpfrom ='wapmail';//网页版webmail 移动版wapmail
+$plpfrom ='webmail';//网页版webmail 移动版wapmail
 $content ='请根据你的要求回复: 1，聊天 /微笑 2，交朋友 /握手 3，约炮 /害羞 4，路过 /大兵';
 $appid = '522005705';//qq邮箱内部app编号
 
